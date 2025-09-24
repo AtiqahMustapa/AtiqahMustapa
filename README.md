@@ -6,3 +6,8 @@
 ---
 
 ## 🚀 Featured Projects
+
+### 📊 [FMCG-Product-Validation-Dashboard_Excel](https://github.com/AtiqahMustapa/FMCG-Product-Validation-Dashboard_Excel.git)
+- Simulated for retail product data.  
+- Built **Excel dashboard** with PivotTables, KPI cards, and slicers.  
+- Automated refresh + PDF export using **VBA macros**.   
